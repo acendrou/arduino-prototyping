@@ -1,1 +1,1 @@
-# arduino-protoyping
+# arduino-prototyping
