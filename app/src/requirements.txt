@@ -1,0 +1,14 @@
+# For static analysis
+pydantic
+mypy
+
+# For core app
+pyserial==3.5
+# for gui part
+wxpython==4.2.0
+
+
+# For bundled plugins
+
+# fft_plot
+matplotlib==3.7.1

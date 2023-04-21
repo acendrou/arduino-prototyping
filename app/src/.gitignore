@@ -1,0 +1,14 @@
+__pycache__/*
+/core/serial_objects/__pycache__/*
+/core/__pycache__/*
+/core/plugins/__pycache__/*
+/core/frontends/__pycache__/*
+/core/misc/__pycache__/*
+
+/bundled_plugins/*/__pycache__/*
+/user_plugins/*/__pycache__/*
+
+
+*_raw_output.txt
+
+/output/*
